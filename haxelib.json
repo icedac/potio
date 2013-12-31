@@ -1,0 +1,11 @@
+{
+    "name": "potio",
+    "url": "https://github.com/icedac/potio",
+    "license": "MIT",
+    "tags": ["cpp", "neko", "flash", "android", "net" ],
+    "description": "io/net/util for haxe",
+    "version": "0.0.1",
+    "releasenote": "Initial release",
+	"contributors": [ "icedac" ],
+	"dependencies": {} 
+}

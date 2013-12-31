@@ -1,8 +1,9 @@
 potio
 =====
 
-Utility library for haxe.
-
+potio(pot.io) is a haxe network library for cpp/neko/flash/android target.
+But currently cotains almost nothing.
+ 
 
 potio can be installed thus:
 
@@ -10,7 +11,14 @@ potio can be installed thus:
  
 
 
-##features:
+##current features:
 
-- haxe.Remoting support for C++ target (sample included)
+- haxe.Remoting support for cpp target (sample included)
  
+
+
+##todo:
+
+- network library??
+ 
+
